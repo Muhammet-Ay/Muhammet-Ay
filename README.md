@@ -1,61 +1,82 @@
-# Hi there, I'm Muhammet Ay 👋
+<div align="center">
 
-> *"Kendimi geliştiren, merak eden, öğrenmeyi seven bir yazılım mühendisi adayıyım."*
+# Muhammet Ay
 
----
+<br/>
 
-## 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-ay73/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammet-Ay)
 
-- 🎓 **Software Engineering** student at Topkapi University, Istanbul
-- 🤖 Focused on **Artificial Intelligence** and building intelligent systems
-- ⚙️ Exploring **Systems Engineering** and low-level fundamentals
-- 🌍 Goal: Become a **Universal Software Engineer** — from AI to systems, from idea to product
-- 📈 Currently leveling up in **Python**, **Java**, and AI/ML tools
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 Artificial Intelligence & Machine Learning
 
-**Languages:**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 
-**Areas of Interest:**
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat&logo=openai&logoColor=white)
-![Systems](https://img.shields.io/badge/Systems%20Engineering-0078D4?style=flat&logo=linux&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-239120?style=flat&logo=github&logoColor=white)
+<br/>
 
 ---
 
-## 🚀 What I'm Working On
+### ☕ Programming Languages
 
-- 🧠 Deepening my knowledge in **AI & Machine Learning**
-- 📚 Building projects to practice **Python** and **Java**
-- 🔧 Learning how systems work from the ground up
-- 🌱 Growing as a developer — one commit at a time
+<br/>
 
----
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammet-Ay&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammet-Ay&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<br/>
 
 ---
 
-## 📬 Connect With Me
+### ⚙️ Systems & Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-ay73/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Muhammet-Ay)
+<br/>
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammet-Ay&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+### 🗄️ Databases
 
-<p align="center"><i>Always learning. Always building. 🚀</i></p>
+<br/>
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+
+<br/>
+
+---
+
+### 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammet-Ay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammet-Ay&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammet-Ay&theme=tokyonight&hide_border=true" width="60%" />
+
+<br/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Muhammet-Ay&color=blueviolet&style=for-the-badge" />
+
+<
